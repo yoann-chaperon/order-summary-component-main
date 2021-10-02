@@ -13,9 +13,9 @@
 ---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoann-chaperon&hide=contribs,prs&theme=synthwave)
 ---
-<a href="https://twitter.com/chaps35300">
+<a href="https://twitter.com/chaps35300" target="_blank">
   <img align="left" alt="yoann-chaperon | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a> 
-<a href="https://www.linkedin.com/in/yoann-chaperon/"target="_blank">
+<a href="https://www.linkedin.com/in/yoann-chaperon/" target="_blank">
   <img align="left" alt="yoann chaperon LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
