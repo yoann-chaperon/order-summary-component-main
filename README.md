@@ -3,7 +3,7 @@
 
 ---
 ## Salut<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-- Ceci est le [résultat](https://yoann-chaperon.github.io/order-summary-component-main/) d'un Chalanges sur [frontendmentor](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj)
+- Ceci est le [résultat](https://yoann-chaperon.github.io/order-summary-component-main/) d'un challenge sur [frontendmentor](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj)
 - j'ai utilisé du HTML5 et du CSS3 pour faire cette card  
   Clique sur [résultat](https://yoann-chaperon.github.io/order-summary-component-main/) 😉  
   🤘🙏
